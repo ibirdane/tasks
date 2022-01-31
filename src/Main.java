@@ -11,7 +11,7 @@ public class Main {
             num = num * i;
         }
         System.out.println(num);
-
+        
     }
 
 
