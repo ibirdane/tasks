@@ -12,7 +12,7 @@ public class minMax {
           if(i<min){
               min=i;
           }
-          
+
           if(i>max){
               max=i;
           }
