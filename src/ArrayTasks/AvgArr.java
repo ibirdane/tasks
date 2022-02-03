@@ -1,4 +1,4 @@
-package Arrays;
+package ArrayTasks;
 
 public class AvgArr {
     public static void main(String[] args) {
